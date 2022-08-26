@@ -7,7 +7,7 @@ Use any methodologies or analysis format you're comfortable with. At the end of 
 
 ### Project Summary
 
-ABC Sdn Bhd, a financial asset management company, has submitted a proposal to your company XYZ Sdn Bhd, a software engineering firm. The requirement is for a customer onboarding system with a Know Your Customer (KYC) core module. The system is known as Sky Onboarding System (SOS).
+ABC Sdn Bhd, a financial asset management company, has submitted a proposal to your company XYZ Sdn Bhd, a software engineering firm where you work as a business analyst.. The requirement is for a customer onboarding system with a Know Your Customer (KYC) core module. The system is known as Sky Onboarding System (SOS).
 
 SOS will have the following capabilities: Onboarding new users, Risks Score calculation, Risks score dashboard/reporting, KYC workflow, product recommendation, and user account creation after a successful process.
 As a software development firm, XYZ Sdn Bhd is expected to produce a BRD, FSD/ FRS, and mock flow diagrams for the stakeholders and software engineers to reference to develop this solution.
