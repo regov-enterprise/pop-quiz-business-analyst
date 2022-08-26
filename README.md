@@ -3,7 +3,7 @@
 ## Purpose
 This assessment is designed to allow you to showcase your skills as a Business Analyst, specifically for a greenfield software development project.
 
-Use any methodologies or analysis format you're comfortable with. At the end of this exercise, you would have demonstrated your ability to satisfy various stakeholders by producing usable artefacts, particularly to address the software engineers' needs. You may add any other essential deliverables you feel are part of a BA role.
+Use any methodologies or analysis format you're comfortable with. At the end of this exercise, you would have demonstrated your ability to satisfy various stakeholders by producing usable artefacts, particularly to address the software engineers' needs. You may add any other essential deliverables as part of a BA role.
 
 ### Project Summary
 
