@@ -1,7 +1,9 @@
 # POP Quiz - Business Analyst
 
 ## Purpose
-This assessment is designed to allow you showcase your skills as a Business Analysis, specifically for a greenfield software development project. Use any metholodies or analysis format you're comfortable with. At the end of this exercise you would have demonstrated your ability to stisfy various stakeholders by producing usable artefacts, in particular to address the needs of the software engineers. Feel free to add any other deliverables you feel should be produced within the course of a project.
+<p> This assessment is designed to allow you showcase your skills as a Business Analyst, specifically for a greenfield software development project. </p>
+
+Use any metholodies or analysis format you're comfortable with. At the end of this exercise you would have demonstrated your ability to stisfy various stakeholders by producing usable artefacts, in particular to address the needs of the software engineers. Feel free to add any other deliverables you feel should be produced within the course of a project.
 
 ### Project Summary
 
