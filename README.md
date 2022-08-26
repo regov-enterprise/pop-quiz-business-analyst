@@ -1,9 +1,9 @@
-## POP Quiz - Business Analyst
+# POP Quiz - Business Analyst
 
-## What is the purpose of this assessment?
+## Purpose
 This assessment is designed to allow you showcase your Business Analysis skills specifically for software development project. You are to use any processes and deliverables methodologies you feel comfortable with. At the end of this exercise you would have finished a usable artefacts for the consumption of project stakeholders, specifically the engineers. Feel free to add any other deliverables you feel should be produced withing the course of a project.
 
-### Question 1
+### Project
 
 ABC Sdn Bhd a financial asset management company approached your company XYZ Sdn Bhd, a software engineering firm, to build a customer onboarding system with a Know your Customer (KYC) as one of its core module. The system is known as Sky Onboarding System (SOS). 
 
